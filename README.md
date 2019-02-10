@@ -2,6 +2,8 @@
 
 A simple starter template to quickly setup the environment using Express, React , Webpack &amp; Babel 7.
 
+You can find more about here on this article [How to Setup Environment using React Webpack Express Babel](https://medium.com/@Jatin_8898/how-to-setup-environment-using-react-webpack-express-babel-d5f1b572b678)
+
 ### Version
 1.0.0
 

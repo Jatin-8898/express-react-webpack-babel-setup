@@ -1,11 +1,18 @@
 # Express React Webpack Babel 7 Template.
+
 A simple starter template to quickly setup the environment using Express, React , Webpack &amp; Babel 7.
 
 ### Version
 1.0.0
 
-## 📝 Usage
+## 🚩Features
 
+* React 16
+* Webpack 4
+* Babel 7
+* Hot Module Replacement
+
+## 📝 Usage
 
 ### :diamonds: Installation
 

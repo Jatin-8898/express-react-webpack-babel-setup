@@ -9,7 +9,7 @@ A simple starter template to quickly setup the environment using Express, React 
 
 ### Installation
 
-Install the dependencies (gulp, gulp-sass, browser-sync)
+Install the dependencies. It will automatically install from the package.json file
 
 ```sh
 $ npm install

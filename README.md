@@ -31,3 +31,6 @@ This will start your nodemon server & run the server.js, compile them and run yo
 ```sh
 $ npm start
 ```
+### ScreenShot
+
+![ssmain](https://user-images.githubusercontent.com/34777376/52532288-521c6a80-2d48-11e9-8449-4924f7a50bfe.png)

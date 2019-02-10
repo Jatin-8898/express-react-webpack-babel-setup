@@ -14,6 +14,15 @@ Install the dependencies. It will automatically install from the package.json fi
 ```sh
 $ npm install
 ```
+### Open a Terminal
+
+Make sure you run the Webpack command.
+
+```
+$ webpack --mode development.
+```
+
+This command bundles the files required for the project to run & stores them in public/bundle.js 
 
 ### Run
 

@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --exec babel-node server.js"
+    "dev": "webpack --mode development && nodemon --exec babel-node server.js",
+    "prestart": "webpack --mode development",
+    "start": "node --exec babel-node server.js"
   },
   "keywords": [],
   "author": "Jatin Varlyani",
